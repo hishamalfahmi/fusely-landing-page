@@ -1,2 +1,2 @@
-# fusely-landing-page
-landing page designed by @imklau in figma coded by me
+# Fusely Landing Page
+landing page designed by @imklau in figma coded by me using HTML and vanilla CSS
